@@ -2,6 +2,7 @@
     "name": "amansharma2010/coinbase-exchange",
     "description": "Coinbase Exchange API library",
     "keywords": ["bitcoin", "coinbase", "coinbase exchange", "coinbase pro"],
+    "version": "0.1.0",
     "homepage": "https://github.com/amansharma2010/coinbase-exchange-php",
     "type": "library",
     "license": "MIT",
